@@ -26,4 +26,6 @@ student s2 = new student("sara  ", 2026002, "cyber security","sara@example.com")
 
         s1.display();
         s2.display();
+        s2.display();
+
        }   }
